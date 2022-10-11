@@ -24,7 +24,8 @@ public with sharing class Welcome {
         When you're done, save this file so that it is compiled and stored in Salesforce.  */
 
         // This piece of code is showing the variable types and values for the variables
-        /* Variables are containters which hold the data. Integer is a long whole number variable, this is showing that the Integer i has a value of 2, and 'my string' is the text that is in the string s variable, string variables hold text characters.  */
+        /* Variables are containters which hold the data. Integer is a long whole number variable, this is showing that the Integer i has a value of 2, 
+	and 'my string' is the text that is in the string s variable, string variables hold text characters.  */
       
 		Integer i;
 
